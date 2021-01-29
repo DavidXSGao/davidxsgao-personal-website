@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "David Gao",
+    "occupation": "Software Engineer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "",
+    "contactmessage": "",
+    "email": "davidxsgao@gmail.com",
+    "phone": "647-937-6881",
+    "address": {
+      "city": "Markham",
+      "state": "Ontario",
+      "zip": "L6E 0E4"
+    },
+    "website": "https://davidxsgao.github.io",
+    "resumedownload": "resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/davidxsgao",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/DavidXSGao",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Toronto",
+        "degree": "Honours Bachelor of Science",
+        "graduated": "September 2015 – April 2019",
+        "description": "Software Engineering Stream"
+      }
+    ],
+    "work": [
+      {
+        "company": "Paymentus Corp.",
+        "title": "Full Stack Engineer",
+        "years": "November 2020 - Present",
+        "description": ""
+      },
+      {
+        "company": "Index Exchange Inc.",
+        "title": "Software Engineer",
+        "years": "May 2019 - November 2020",
+        "description": ""
+      },
+      {
+        "company": "Leonardo Worldwide Corp.",
+        "title": "Test Automation Engineer",
+        "years": "August 2016 – April 2017",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "85%"
+      },
+      {
+        "name": "Angular",
+        "level": "65%"
+      },
+      {
+        "name": "Vue.js",
+        "level": "70%"
+      },
+      {
+        "name": "Node.js",
+        "level": "85%"
+      },
+      {
+        "name": "Go",
+        "level": "75%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "IXAccomplishments",
+        "category": "",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://github.com/DavidXSGao/IX-Accomplishments"
+      },
+      {
+        "title": "Morning Dashboard",
+        "category": "",
+        "image": "original-thai-food.jpg",
+        "url": "https://github.com/DavidXSGao/Daily-Updates-Dashboard-AngularJS-HTML-CSS"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website",
+        "image": "resume-website.png",
+        "url": "https://github.com/DavidXSGao/davidxsgao.github.io"
+      },
+      {
+        "title": "Robot Soccer",
+        "category": "",
+        "image": "smirkspace.jpg",
+        "url": "https://github.com/DavidXSGao/Lego-MindStorm-Robot-Navigation"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "David joined Index Exchange for his last co-op term before graduating, and very quickly became a contributing member of his team. On-boarding was easy, and within weeks David was fully productive. He showed enthusiasm and drive from day one, and his team knew they can count on him for anything from writing and testing code, to facilitating team meetings and representing the team in front the entire division. He is responsible, dependable and hard working, and met or exceeded all expectations we had set for him.",
+        "user": "Metodi Baniski (Engineering Manager - Instacart)"
+      }
+    ]
+  }
+}
