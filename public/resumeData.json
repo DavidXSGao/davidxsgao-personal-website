@@ -4,7 +4,7 @@
     "occupation": "Software Engineer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "",
+    "bio": "My hobbies include playing video games, tinkering with hardware, playing music and staying fit. I'm not a shy guy and I enjoy tough challenges. I want to get to know as many people in my lifetime as I can, and I bet I can find something to talk about that will be interesting to the both of us. Feel free to reach out to me by email or on through Linkedin.",
     "contactmessage": "",
     "email": "davidxsgao@gmail.com",
     "phone": "647-937-6881",
@@ -35,7 +35,7 @@
         "school": "University of Toronto",
         "degree": "Honours Bachelor of Science",
         "graduated": "September 2015 – April 2019",
-        "description": "Software Engineering Stream"
+        "description": "Specialist (Co-operative) Program in Computer Science - Software Engineering Stream"
       }
     ],
     "work": [
@@ -43,19 +43,19 @@
         "company": "Paymentus Corp.",
         "title": "Full Stack Engineer",
         "years": "November 2020 - Present",
-        "description": ""
+        "description": "• Constructed a React webpage, from scratch, to display hundreds of rows of invoice data, in a report format, for an multi-million-dollar onboarding agreement\n• Composed Node.js jobs for a variety of tasks including ingesting files from external SFTP servers, aggregating and manipulating data in MongoDB, and producing user friendly reports for clients\n• Set up Kafka producers and consumers to link together Node.js jobs as well as produce and consume telemetry for existing applications\n• Created Terraform plans to automate Kubernetes pod generation when cron jobs should be scheduled\n• Refactored legacy React components to be generic and AODA compliant for improved reusability, scalability and performance optimization"
       },
       {
         "company": "Index Exchange Inc.",
         "title": "Software Engineer",
         "years": "May 2019 - November 2020",
-        "description": ""
+        "description": "• With the help of the director, we introduced the teams to the new Operational Excellence role so that developers are conscious of monitoring and alerting while building features\n• Migrated the existing telemetry pipeline to utilize the TICK (Telegraf, InfluxDB, Chronograf and Kapacitor) stack for greater reliability and accurate alerting\n• Built and managed Golang services to support large loads of requests such as looking up millions of identity information, looking up millions of profiles, decryption millions of IDs and looking up profiles through cache, all in milliseconds\n• Refactored enormous end-to-end test suites to modular unit tests so that test development would be more concise and tests can be run more frequently\n• Maintained Gitlab CI/CD pipelines to allow for automated testing and seamless deployments"
       },
       {
         "company": "Leonardo Worldwide Corp.",
         "title": "Test Automation Engineer",
         "years": "August 2016 – April 2017",
-        "description": ""
+        "description": "• Developed, maintained and executed automation programs for front end web applications written in Angular\n• Tests were developed in Protractor particularly used to automate testing functionality in desktop and mobile websites\n• The program executed stability tests and often reported significant bugs when modifications are made to the web application\n• Optimized the developers’ tasks by reviewing PHP scripts that are reported as malfunctioning and suggest corrections\n• Awarded permissions to correct defective PHP scripts myself to be reviewed by the developers\n• Consequently given opportunities, from time to time, to help developers resolve bugs on their main applications in Java as well\n• Develop a dashboard in AngularJS, HTML and CSS to display the current status of the engineering team for the entire company to view, on company monitors, by incorporating Jira API"
       }
     ],
     "skills": [
@@ -85,7 +85,7 @@
       },
       {
         "name": "Java",
-        "level": "65%"
+        "level": "50%"
       }
     ]
   },
@@ -93,26 +93,26 @@
     "projects": [
       {
         "title": "IXAccomplishments",
-        "category": "",
-        "image": "canadian-wanderlust.jpg",
+        "category": "Employee kudos web application for enterprise use",
+        "image": "ix-accomplishments.png",
         "url": "https://github.com/DavidXSGao/IX-Accomplishments"
       },
       {
         "title": "Morning Dashboard",
-        "category": "",
-        "image": "original-thai-food.jpg",
+        "category": "Displays daily weather, tweets, jira updates as a slideshow for company monitors",
+        "image": "morning-dashboard.png",
         "url": "https://github.com/DavidXSGao/Daily-Updates-Dashboard-AngularJS-HTML-CSS"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website",
+        "title": "Personal Website",
+        "category": "A website written in React to display my up-to-date employment status and allow others to download my resume",
         "image": "resume-website.png",
         "url": "https://github.com/DavidXSGao/davidxsgao.github.io"
       },
       {
         "title": "Robot Soccer",
-        "category": "",
-        "image": "smirkspace.jpg",
+        "category": "Program written in NXC to allow a lego robot to compete with others in fast-pace soccer matches",
+        "image": "robot-soccer.jpg",
         "url": "https://github.com/DavidXSGao/Lego-MindStorm-Robot-Navigation"
       }
     ]
